@@ -1,0 +1,16 @@
+Lets say i have a 2D matrix with characters inside every cell
+and a key word 
+the problem is we have to find if the word is in the matrix either top to bottom or diagonally or left to right
+
+if exists print the cell number or dont
+
+ex
+ __           __
+| P  O  K  K  R |
+| J  O  W  A  U |
+| B  V  E  G  N |
+| A  Z  H  T  W |
+|__           __|
+
+question : - POET
+ans : - (0,0) (1,1) (2,2) (3,3)

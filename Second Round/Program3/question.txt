@@ -1,0 +1,11 @@
+Lets say we have two integers n and s;
+we have form n digit number with sum o digits as s;
+and the number should not have trailing zeros;
+and the number should be highest of all possiblities;
+
+examples:
+
+n = 2, s = 9
+answer := 81
+
+other possiblities 90(leading zeros), 18(its okay but not the highest)
