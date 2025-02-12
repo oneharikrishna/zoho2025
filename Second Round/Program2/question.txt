@@ -1,0 +1,7 @@
+Lets say we have a String containing alphanumeric characters and specail characters;
+we have to reverse the alphanumeric characters only;
+maintainning the specail characters(including space) in their respective positions;
+important note we should not use any built-in methods;
+
+ex := one,two,three
+ans := eer,hto,wteno
