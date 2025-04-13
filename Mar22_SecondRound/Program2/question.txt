@@ -1,0 +1,34 @@
+it is a easy coding program
+
+question
+    Find the leaders in the array(no need to store just print).
+    Leader is an element that has no higher element in the right side.
+
+    1) 10, 17, 5, 2, 3, 1
+    ans :- 10 is not a leader bcoz 17 is present in its right side
+           17 is a leader since no higher than its in the right side
+           5 is a leader
+           2 is not a leader
+           3 is a leader
+           1 is a leader
+
+           so the answer should be 17, 5, 3, 1 
+
+    2) 1, 2, 3, 4, 5, 6, 7
+    ans:- 7
+
+    3) 7, 6, 5, 4, 3, 2, 1
+    ans:- 7, 6, 5, 4, 3, 2, 1
+
+The main task is we should not use i cross j loops(like for loop inside for aka brute force)
+
+See both the approaches in Approach1.java and Approach2.java
+
+
+Approach1 uses brute force for seeing how it works
+Approach2 --> I dont know either it is good one or bad one
+
+Hint :- Dont use Scanner for getting array inputs
+use hardcoded array for technical interviews, use Scanner only if interviewer suggests............
+
+happyCoding :)
